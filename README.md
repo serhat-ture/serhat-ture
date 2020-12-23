@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on a project using React !
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other developers
-- 🥅 2020 Goals: Contribute more cool projects
+- 🥅 2021 Goals: Contribute more cool projects
 - ⚡ Fun fact: I love to be here
 
 ### Connect with me:
