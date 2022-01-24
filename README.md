@@ -16,12 +16,12 @@
 
 ### Languages and Tools:
 
-Java
-Spring Boot
-JavaScript
-React
-MongoDB
-Git
+- Java
+- Spring Boot
+- JavaScript
+- React
+- MongoDB
+- Git
 
 <br />
 <br />
