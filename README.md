@@ -20,7 +20,7 @@
 - Spring Boot
 - JavaScript
 - React
-- MongoDB
+- PostgreSQL
 - Git
 
 <br />
