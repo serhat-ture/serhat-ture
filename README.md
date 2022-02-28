@@ -1,6 +1,6 @@
 ### Hi there, I'm Serhat 👋
 
-## I'm a Uncle, Developer, and Lawyer!
+## I'm a Uncle and Developer!
 
 - 🔭 I’m currently working on a project using Java - React !
 - 🌱 I’m currently learning everything 🤣
