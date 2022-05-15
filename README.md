@@ -20,8 +20,8 @@
 
 - Java
 - Spring Boot
+- Spring, JDBC, Hibernate, Spring MVC
 - JavaScript
-- React
 - PostgreSQL
 - Git
 
