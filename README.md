@@ -2,7 +2,7 @@
 
 ## I'm a Uncle and Developer!
 
-- 🔭 I’m currently working on a project using Java - React !
+- 🔭 I’m currently working on a project using Java  !
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other developers
 - 🥅 2022 Goals: Contribute more cool projects
