@@ -20,7 +20,7 @@
 
 - Java
 - Spring Boot
-- Spring, JDBC, Hibernate, Spring MVC
+- Spring, JPA, Hibernate, Spring MVC
 - JavaScript
 - PostgreSQL
 - Git
