@@ -2,11 +2,11 @@
 
 ## I'm a Uncle and Developer!
 
-- 🔭 I’m currently working on a project using Java  !
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other developers
+- 🌱 I’m currently learning Java, SprinBoot and everything 🤣
 - 🥅 2022 Goals: Contribute more cool projects
 - ⚡ Fun fact: I love to be here
+
+- 📫 How to reach me **serhatture@gmail.com**
 
 ### Connect with me:
 
