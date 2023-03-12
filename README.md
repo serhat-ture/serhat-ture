@@ -1,11 +1,9 @@
 
 
-<p >
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Hi,+I'm+Serhat👋;I+love+open-source.;I'm+a+Uncle+and+Devepoler!;I+love+learning.;I+love+spreading+knowledge.;&center=true&width=500&height=50"></a>
-</p>
 
-- 🌱 I’m currently learning Java, SprinBoot and everything 🤣
-- 🥅 2022 Goals: Contribute more cool projects
+
+- 🌱 I’m currently learning Java, SprinBoot and everything 
+- 🥅 2023 Goals: Contribute more cool projects
 - ⚡ Fun fact: I love to be here
 
 - 📫 How to reach me **serhatture@gmail.com**
