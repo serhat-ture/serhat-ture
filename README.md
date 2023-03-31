@@ -4,7 +4,6 @@
 
 - 🌱 I’m currently learning Java, SprinBoot and everything 
 - 🥅 2023 Goals: Contribute more cool projects
-- ⚡ Fun fact: I love to be here
 
 - 📫 How to reach me **serhatture@gmail.com**
 
