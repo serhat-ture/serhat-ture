@@ -19,7 +19,7 @@
 
 - Java
 - Spring Boot
-- Spring, JPA, Hibernate, Spring MVC
+- Spring, JPA, Hibernate, Spring Security
 - JavaScript
 - PostgreSQL
 - Git
