@@ -22,7 +22,7 @@
 - Spring, JPA, Hibernate, Spring Security
 - JavaScript
 - PostgreSQL
-- Git
+
 
 <br />
 <br />
