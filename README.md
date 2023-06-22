@@ -2,7 +2,8 @@
 
 
 
-- 🌱 I’m currently learning Java, SprinBoot and everything 
+- 🌱 I’m currently developing in SprinBoot and GraphQL
+ 
 - 🥅 2023 Goals: Contribute more cool projects
 
 - 📫 How to reach me **serhatture@gmail.com**
