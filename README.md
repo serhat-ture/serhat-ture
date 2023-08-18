@@ -23,6 +23,7 @@
 - Spring, JPA, Hibernate, Spring Security
 - JavaScript
 - PostgreSQL
+- GraphQL
 
 
 <br />
