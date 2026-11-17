@@ -44,15 +44,8 @@ const serhatTure = {
 };
 ```
 
----
 
-### 🚀 Featured Work
 
-| Project | Overview | Tech Stack |
-| :--- | :--- | :--- |
-| [** Belediyespor Platform**](https://github.com/serhat-ture/nspor) | Official sports club web platform featuring live match center, branch squads, media gallery, and an RBAC-protected admin CMS with security sanitization. | `Next.js 16` `React 19` `TypeScript` `Prisma` `Supabase` `Tailwind CSS` `Framer Motion` `Zod` |
-| [**CellPhone REST API**](https://github.com/serhat-ture/cellPhone-Rest-API) | Scalable RESTful backend service designed with layered architecture, entity mapping, and relational database persistence. | `Java` `Spring Boot` `JPA` `Hibernate` `PostgreSQL` |
-| [**Product CRM**](https://github.com/serhat-ture/productCrm) | Customer and product management backend system focused on clean domain modeling and enterprise workflows. | `Java` `Spring` `PostgreSQL` |
 
 ---
 
